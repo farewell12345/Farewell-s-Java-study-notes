@@ -1,0 +1,7 @@
+# LocalDate
+
+LocalDate兑现工可以表示带年月的日期，不带时间信息。使用LocalDat**对象可以记录重要的事件。**
+
+**LocalTime**：获取目前的精确时间
+
+**等待方法：Thread.sleep( 1000);**
